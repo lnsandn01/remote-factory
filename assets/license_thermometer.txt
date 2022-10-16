@@ -1,0 +1,11 @@
+Model Information:
+* title:	Raspberry Pi Pico Thermometer
+* source:	https://sketchfab.com/3d-models/raspberry-pi-pico-thermometer-1c59e2a1258b4b03b33a5c1b78f443fa
+* author:	digitalurban (https://sketchfab.com/digitalurban)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Raspberry Pi Pico Thermometer" (https://sketchfab.com/3d-models/raspberry-pi-pico-thermometer-1c59e2a1258b4b03b33a5c1b78f443fa) by digitalurban (https://sketchfab.com/digitalurban) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
